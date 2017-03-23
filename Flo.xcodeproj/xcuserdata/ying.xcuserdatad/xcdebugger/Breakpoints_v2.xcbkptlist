@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Flo/CounterView.swift"
+            timestampString = "510870687.55591"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "CounterView"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flo.CounterView.outlineColor.setter : __ObjC.UIColor"
+                  moduleName = "Flo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ying/Desktop/Flo/Flo/CounterView.swift"
+                  timestampString = "512002210.652832"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flo.CounterView.init (frame : __C.CGRect) -&gt; Flo.CounterView"
+                  moduleName = "Flo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ying/Desktop/Flo/Flo/CounterView.swift"
+                  timestampString = "512002210.65603"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "75">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flo.CounterView.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Flo.CounterView&gt;"
+                  moduleName = "Flo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ying/Desktop/Flo/Flo/CounterView.swift"
+                  timestampString = "512002210.658575"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
